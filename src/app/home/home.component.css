@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+
+.user{
+    width: 80%;
+    border: 1px solid black
+}
+
+label{
+ display: block;
+
+}
+
+input{
+    width: 30%;
+    height: 24px;
+    padding: 10px;
+    border-radius: 6px;
+}
