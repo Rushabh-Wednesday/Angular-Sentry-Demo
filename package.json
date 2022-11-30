@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "homepage": "https://rushabh-wednesday.github.io/Angular-Sentry-Demo",
   "private": true,
   "dependencies": {
     "@angular/animations": "^15.0.0",
