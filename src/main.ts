@@ -13,7 +13,7 @@ Sentry.init({
   release: 'trial_3',
   integrations: [
     new BrowserTracing({
-      tracePropagationTargets: ['localhost', 'https://yourserver.io/api'],
+      tracePropagationTargets: ['localhost', 'https://yourserver.io/api','https://rushabh-wednesday.github.io/Angular-Sentry-Demo/'],
       routingInstrumentation: Sentry.routingInstrumentation,
     }),
   ],
